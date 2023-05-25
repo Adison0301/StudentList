@@ -5,8 +5,8 @@
 package student;
 
 /**
- *
- * @author 16476
+ * A class that models Students Objects
+ * @author Adison
  */
 public class Student {
 
